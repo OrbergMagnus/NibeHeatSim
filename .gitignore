@@ -1,2 +1,3 @@
 *.pyc
 /venv
+start_venv.ps1
